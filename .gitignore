@@ -1,5 +1,10 @@
-# Ignore huge datasets
-Capstone_Assesment/ESACCI-OC-MAPPED-CLIMATOLOGY-1M_MONTHLY_4km_PML_CHL-fv5.0.nc
-Capstone_Assesment/GMRTv4_4_1_20260512topo.grd
+# Ignore large datasets
+*.nc
+*.nc4
+*.grd
+
+# Ignore dataset folder
+Capstone_Assesment/
+
 # Ignore Jupyter checkpoints
-ocean_colour_analysis.ipynb_checkpoints/
+.ipynb_checkpoints/
