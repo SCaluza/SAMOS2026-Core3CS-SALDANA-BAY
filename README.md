@@ -16,7 +16,12 @@ Saldanha Bay and the adjacent West Coast of South Africa, located within the Ben
 - Monthly climatological dataset
 - Resolution: ~4 km
 - Variable: chlorophyll concentration (mg m⁻³)
-
+### 4. 12 subplots
+-A faceted figure was generated to display the spatial distribution of chlorophyll-a concentration across study region
+for each month of the year.
+-The figure consists of 12 subplots arranged in a 3 × 4 grid, with each panel representing a monthly climatology.
+### 5. Time series
+-A time series plot was generated to compare the mean seasonal cycle of chlorophyll-a across the study region with the time series from a single grid point located in a high chlorophyll area.
 ## Data Access
 
 Due to file size limitations, datasets are **not included** in this repository.
