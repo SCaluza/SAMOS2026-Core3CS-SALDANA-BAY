@@ -60,12 +60,14 @@ Required files:
 - Run the notebook cells sequentially
 
 # Dependencies 
--xarray
+- xarray
 - matplotlib
-cartopy
-pandas
-cmocean
-numpy
+- cartopy
+- pandas
+- cmocean
+- numpy
+
+
 ## Notebook
 
 The main analysis is contained in:
