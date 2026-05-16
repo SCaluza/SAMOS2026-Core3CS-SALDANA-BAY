@@ -53,6 +53,19 @@ Required files:
 - ESA-CCI chlorophyll dataset (.nc)
 - GMRT bathymetry dataset (.grd)
 
+# How to Run the Project
+- Clone the repository
+- Open JupyterLab
+- Navigate to the project folder
+- Run the notebook cells sequentially
+
+# Dependencies 
+-xarray
+- matplotlib
+cartopy
+pandas
+cmocean
+numpy
 ## Notebook
 
 The main analysis is contained in:
